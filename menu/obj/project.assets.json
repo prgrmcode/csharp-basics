@@ -1,0 +1,279 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "calculation/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/calculation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/calculation.dll": {}
+        }
+      },
+      "circle/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/circle.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/circle.dll": {}
+        }
+      },
+      "fizzbuzz/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/fizzbuzz.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/fizzbuzz.dll": {}
+        }
+      },
+      "hello/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/hello.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/hello.dll": {}
+        }
+      },
+      "isPrime/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/isPrime.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/isPrime.dll": {}
+        }
+      },
+      "length/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/length.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/length.dll": {}
+        }
+      },
+      "longestWord/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/longestWord.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/longestWord.dll": {}
+        }
+      },
+      "multiplication/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/multiplication.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/multiplication.dll": {}
+        }
+      },
+      "print/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/print.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/print.dll": {}
+        }
+      },
+      "rectangle/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/rectangle.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/rectangle.dll": {}
+        }
+      },
+      "sort/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/sort.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/sort.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "calculation/1.0.0": {
+      "type": "project",
+      "path": "../calculation/calculation.csproj",
+      "msbuildProject": "../calculation/calculation.csproj"
+    },
+    "circle/1.0.0": {
+      "type": "project",
+      "path": "../circle/circle.csproj",
+      "msbuildProject": "../circle/circle.csproj"
+    },
+    "fizzbuzz/1.0.0": {
+      "type": "project",
+      "path": "../fizzbuzz/fizzbuzz.csproj",
+      "msbuildProject": "../fizzbuzz/fizzbuzz.csproj"
+    },
+    "hello/1.0.0": {
+      "type": "project",
+      "path": "../hello/hello.csproj",
+      "msbuildProject": "../hello/hello.csproj"
+    },
+    "isPrime/1.0.0": {
+      "type": "project",
+      "path": "../isPrime/isPrime.csproj",
+      "msbuildProject": "../isPrime/isPrime.csproj"
+    },
+    "length/1.0.0": {
+      "type": "project",
+      "path": "../length/length.csproj",
+      "msbuildProject": "../length/length.csproj"
+    },
+    "longestWord/1.0.0": {
+      "type": "project",
+      "path": "../longestWord/longestWord.csproj",
+      "msbuildProject": "../longestWord/longestWord.csproj"
+    },
+    "multiplication/1.0.0": {
+      "type": "project",
+      "path": "../multiplication/multiplication.csproj",
+      "msbuildProject": "../multiplication/multiplication.csproj"
+    },
+    "print/1.0.0": {
+      "type": "project",
+      "path": "../print/print.csproj",
+      "msbuildProject": "../print/print.csproj"
+    },
+    "rectangle/1.0.0": {
+      "type": "project",
+      "path": "../rectangle/rectangle.csproj",
+      "msbuildProject": "../rectangle/rectangle.csproj"
+    },
+    "sort/1.0.0": {
+      "type": "project",
+      "path": "../sort/sort.csproj",
+      "msbuildProject": "../sort/sort.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "calculation >= 1.0.0",
+      "circle >= 1.0.0",
+      "fizzbuzz >= 1.0.0",
+      "hello >= 1.0.0",
+      "isPrime >= 1.0.0",
+      "length >= 1.0.0",
+      "longestWord >= 1.0.0",
+      "multiplication >= 1.0.0",
+      "print >= 1.0.0",
+      "rectangle >= 1.0.0",
+      "sort >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Harun\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Harun\\Documents\\ThomasMoreStudy\\Fase-6-(F3-Semester-1)\\C#.NET Development\\projects\\Assignment1\\csharp-basics\\menu\\Menu.csproj",
+      "projectName": "Menu",
+      "projectPath": "C:\\Users\\Harun\\Documents\\ThomasMoreStudy\\Fase-6-(F3-Semester-1)\\C#.NET Development\\projects\\Assignment1\\csharp-basics\\menu\\Menu.csproj",
+      "packagesPath": "C:\\Users\\Harun\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Harun\\Documents\\ThomasMoreStudy\\Fase-6-(F3-Semester-1)\\C#.NET Development\\projects\\Assignment1\\csharp-basics\\menu\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Harun\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\Harun\\Documents\\ThomasMoreStudy\\Fase-6-(F3-Semester-1)\\C#.NET Development\\projects\\Assignment1\\csharp-basics\\calculation\\calculation.csproj": {
+              "projectPath": "C:\\Users\\Harun\\Documents\\ThomasMoreStudy\\Fase-6-(F3-Semester-1)\\C#.NET Development\\projects\\Assignment1\\csharp-basics\\calculation\\calculation.csproj"
+            },
+            "C:\\Users\\Harun\\Documents\\ThomasMoreStudy\\Fase-6-(F3-Semester-1)\\C#.NET Development\\projects\\Assignment1\\csharp-basics\\circle\\circle.csproj": {
+              "projectPath": "C:\\Users\\Harun\\Documents\\ThomasMoreStudy\\Fase-6-(F3-Semester-1)\\C#.NET Development\\projects\\Assignment1\\csharp-basics\\circle\\circle.csproj"
+            },
+            "C:\\Users\\Harun\\Documents\\ThomasMoreStudy\\Fase-6-(F3-Semester-1)\\C#.NET Development\\projects\\Assignment1\\csharp-basics\\fizzbuzz\\fizzbuzz.csproj": {
+              "projectPath": "C:\\Users\\Harun\\Documents\\ThomasMoreStudy\\Fase-6-(F3-Semester-1)\\C#.NET Development\\projects\\Assignment1\\csharp-basics\\fizzbuzz\\fizzbuzz.csproj"
+            },
+            "C:\\Users\\Harun\\Documents\\ThomasMoreStudy\\Fase-6-(F3-Semester-1)\\C#.NET Development\\projects\\Assignment1\\csharp-basics\\hello\\hello.csproj": {
+              "projectPath": "C:\\Users\\Harun\\Documents\\ThomasMoreStudy\\Fase-6-(F3-Semester-1)\\C#.NET Development\\projects\\Assignment1\\csharp-basics\\hello\\hello.csproj"
+            },
+            "C:\\Users\\Harun\\Documents\\ThomasMoreStudy\\Fase-6-(F3-Semester-1)\\C#.NET Development\\projects\\Assignment1\\csharp-basics\\isPrime\\isPrime.csproj": {
+              "projectPath": "C:\\Users\\Harun\\Documents\\ThomasMoreStudy\\Fase-6-(F3-Semester-1)\\C#.NET Development\\projects\\Assignment1\\csharp-basics\\isPrime\\isPrime.csproj"
+            },
+            "c:\\Users\\Harun\\Documents\\ThomasMoreStudy\\Fase-6-(F3-Semester-1)\\C#.NET Development\\projects\\Assignment1\\csharp-basics\\length\\length.csproj": {
+              "projectPath": "c:\\Users\\Harun\\Documents\\ThomasMoreStudy\\Fase-6-(F3-Semester-1)\\C#.NET Development\\projects\\Assignment1\\csharp-basics\\length\\length.csproj"
+            },
+            "c:\\Users\\Harun\\Documents\\ThomasMoreStudy\\Fase-6-(F3-Semester-1)\\C#.NET Development\\projects\\Assignment1\\csharp-basics\\longestWord\\longestWord.csproj": {
+              "projectPath": "c:\\Users\\Harun\\Documents\\ThomasMoreStudy\\Fase-6-(F3-Semester-1)\\C#.NET Development\\projects\\Assignment1\\csharp-basics\\longestWord\\longestWord.csproj"
+            },
+            "C:\\Users\\Harun\\Documents\\ThomasMoreStudy\\Fase-6-(F3-Semester-1)\\C#.NET Development\\projects\\Assignment1\\csharp-basics\\multiplication\\multiplication.csproj": {
+              "projectPath": "C:\\Users\\Harun\\Documents\\ThomasMoreStudy\\Fase-6-(F3-Semester-1)\\C#.NET Development\\projects\\Assignment1\\csharp-basics\\multiplication\\multiplication.csproj"
+            },
+            "C:\\Users\\Harun\\Documents\\ThomasMoreStudy\\Fase-6-(F3-Semester-1)\\C#.NET Development\\projects\\Assignment1\\csharp-basics\\print\\print.csproj": {
+              "projectPath": "C:\\Users\\Harun\\Documents\\ThomasMoreStudy\\Fase-6-(F3-Semester-1)\\C#.NET Development\\projects\\Assignment1\\csharp-basics\\print\\print.csproj"
+            },
+            "C:\\Users\\Harun\\Documents\\ThomasMoreStudy\\Fase-6-(F3-Semester-1)\\C#.NET Development\\projects\\Assignment1\\csharp-basics\\rectangle\\rectangle.csproj": {
+              "projectPath": "C:\\Users\\Harun\\Documents\\ThomasMoreStudy\\Fase-6-(F3-Semester-1)\\C#.NET Development\\projects\\Assignment1\\csharp-basics\\rectangle\\rectangle.csproj"
+            },
+            "C:\\Users\\Harun\\Documents\\ThomasMoreStudy\\Fase-6-(F3-Semester-1)\\C#.NET Development\\projects\\Assignment1\\csharp-basics\\sort\\sort.csproj": {
+              "projectPath": "C:\\Users\\Harun\\Documents\\ThomasMoreStudy\\Fase-6-(F3-Semester-1)\\C#.NET Development\\projects\\Assignment1\\csharp-basics\\sort\\sort.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

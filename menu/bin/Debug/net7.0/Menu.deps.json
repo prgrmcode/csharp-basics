@@ -1,0 +1,146 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Menu/1.0.0": {
+        "dependencies": {
+          "calculation": "1.0.0",
+          "circle": "1.0.0",
+          "fizzbuzz": "1.0.0",
+          "hello": "1.0.0",
+          "isPrime": "1.0.0",
+          "length": "1.0.0",
+          "longestWord": "1.0.0",
+          "multiplication": "1.0.0",
+          "print": "1.0.0",
+          "rectangle": "1.0.0",
+          "sort": "1.0.0"
+        },
+        "runtime": {
+          "Menu.dll": {}
+        }
+      },
+      "calculation/1.0.0": {
+        "runtime": {
+          "calculation.dll": {}
+        }
+      },
+      "circle/1.0.0": {
+        "runtime": {
+          "circle.dll": {}
+        }
+      },
+      "fizzbuzz/1.0.0": {
+        "runtime": {
+          "fizzbuzz.dll": {}
+        }
+      },
+      "hello/1.0.0": {
+        "runtime": {
+          "hello.dll": {}
+        }
+      },
+      "isPrime/1.0.0": {
+        "runtime": {
+          "isPrime.dll": {}
+        }
+      },
+      "length/1.0.0": {
+        "runtime": {
+          "length.dll": {}
+        }
+      },
+      "longestWord/1.0.0": {
+        "runtime": {
+          "longestWord.dll": {}
+        }
+      },
+      "multiplication/1.0.0": {
+        "runtime": {
+          "multiplication.dll": {}
+        }
+      },
+      "print/1.0.0": {
+        "runtime": {
+          "print.dll": {}
+        }
+      },
+      "rectangle/1.0.0": {
+        "runtime": {
+          "rectangle.dll": {}
+        }
+      },
+      "sort/1.0.0": {
+        "runtime": {
+          "sort.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Menu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "calculation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "circle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "fizzbuzz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "hello/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "isPrime/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "length/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "longestWord/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "multiplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "print/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "rectangle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "sort/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

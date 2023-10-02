@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\hello\hello.csproj" />
+    <ProjectReference Include="..\multiplication\multiplication.csproj" />
+    <ProjectReference Include="..\calculation\calculation.csproj" />
+    <ProjectReference Include="..\longestWord\longestWord.csproj" />
+    <ProjectReference Include="..\length\length.csproj" />
+    <ProjectReference Include="..\print\print.csproj" />
+    <ProjectReference Include="..\isPrime\isPrime.csproj" />
+    <ProjectReference Include="..\sort\sort.csproj" />
+    <ProjectReference Include="..\rectangle\rectangle.csproj" />
+    <ProjectReference Include="..\circle\circle.csproj" />
+    <ProjectReference Include="..\fizzbuzz\fizzbuzz.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
